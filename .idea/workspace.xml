@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b9dd2bbf-5cc9-480a-adfc-09db2b35fa1d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/flutter_app/images/email-sign-in-emoji.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_app/lib/app/sign_in/email_sign_in_form.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_app/lib/app/sign_in/email_sign_in_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_app/lib/app/sign_in/validator.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_app/lib/custom_widgets/form_submit_button.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_app/lib/custom_widgets/platform_alert_dialog.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_app/lib/custom_widgets/platform_widget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_app/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_app/lib/app/home_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/lib/app/home_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_app/lib/app/landing_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/lib/app/landing_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_app/lib/app/sign_in/sign_in_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/lib/app/sign_in/sign_in_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_app/lib/custom_widgets/custom_raised_button.dart" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/lib/custom_widgets/custom_raised_button.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_app/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_app/lib/services/auth.dart" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/lib/services/auth.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_app/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_app/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/flutter_app" />
+  </component>
+  <component name="ProjectId" id="1d85WgsQZN0tecJPwmXn03ODovE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9dd2bbf-5cc9-480a-adfc-09db2b35fa1d" name="Default Changelist" comment="" />
+      <created>1591793913064</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591793913064</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="234" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591793934566">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="414" y="234" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1591793934566" />
+  </component>
+</project>
